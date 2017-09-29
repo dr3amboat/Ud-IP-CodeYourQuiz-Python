@@ -13,10 +13,11 @@
 # Instead you'll need to run the program in Terminal or IDLE.
 # Refer to Work Session 5 if you need a refresher on how to do this.
 
-# To help you get started, we've provided a sample paragraph that you can use when testing your code.
+# To help you get started, we've provided a sample paragraph that you can use when testing
+# your code.
 # Your game should consist of 3 or more levels, so you should add your own paragraphs as well!
 
-sample = '''A ___1___ is created with the def keyword. You specify the inputs a ___1___ takes by
+SAMPLE = '''A ___1___ is created with the def keyword. You specify the inputs a ___1___ takes by
 adding ___2___ separated by commas between the parentheses. ___1___s by default return ___3___ if you
 don't specify the value to return. ___2___ can be standard data types such as string, number, dictionary,
 tuple, and ___4___ or can be more complicated such as objects and lambda functions.'''
@@ -34,3 +35,15 @@ tuple, and ___4___ or can be more complicated such as objects and lambda functio
 # How can you adapt that design to work with numbered blanks?
 
 # If you need help, you can sign up for a 1 on 1 coaching appointment: https://calendly.com/ipnd-1-1/20min/
+
+DIFFICULTY_LIST = ['easy', 'medium', 'hard']
+
+DIFFICULTY_PROMPT = 'Please select a game difficulty by typing it in!\n\
+Possible choices include easy, medium, and hard.\n'
+
+DIFFICULTY_INPUT = raw_input(DIFFICULTY_PROMPT)
+
+if DIFFICULTY_INPUT in DIFFICULTY_LIST:
+    print "You've chosen %s!" % DIFFICULTY_INPUT
+else:
+    print "That's not an option!"
