@@ -33,4 +33,8 @@ Your reviewer will also look at the Python code you've written and provide feedb
 * **Appropriate use of other coding techniques**: Your code should use statements like if, elif, else, while, etc... appropriately.
 * **Each function includes a comment**: Comments explain function behavior, inputs, and outputs (if applicable.)
 
-The rubric that will be used is here.
+The rubric that will be used is [here](https://review.udacity.com/#!/projects/3568138824/rubric).
+
+#### Supporting Materials
+* [Videos Zip File](http://d2uz2655q5g6b2.cloudfront.net/3568138824/Stage%202%3A%20Automate%20Your%20Page%20Videos.zip)
+* [Transcripts Zip File](http://d2uz2655q5g6b2.cloudfront.net/3568138824/Stage%202%3A%20Automate%20Your%20Page%20Subtitles.zip)
