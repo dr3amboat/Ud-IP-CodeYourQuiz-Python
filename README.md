@@ -13,7 +13,10 @@ You can find some starter code for this project along with all the other lessons
 In addition to the starter code file (fill-in-the-blanks.py) we've also given you a file called fill-in-the-blanks.pyc which is a working version of the project. A .pyc file is a Python file that has been translated into "byte code". This means the code will run the same as the original .py file, but if you open it in your text editor, it won't look like Python! You can run it just like a regular Python file to see how your code should behave.
 
 ### Advice
-Check out the Project Submission Details! If you get stuck, check out the forums for common problems students face when attempting this project. If you need, schedule a 1:1 appointment with one of our mentors to get you un-stuck. This project should be fun. If at any time it becomes "not-fun", take a step back, deep breath, and ask for help!
+Check out the Project Submission Details! If you get stuck, check out the [forums](https://discussions.udacity.com/) for common problems students face when attempting this project. If you need, schedule a [1:1 appointment](https://calendly.com/ipnd-1-1) with one of our mentors to get you un-stuck. This project should be fun. If at any time it becomes "not-fun", take a step back, deep breath, and ask for help!
+
+#### Supporting Materials
+* [IPND Materials](https://d17h27t6h515a5.cloudfront.net/topher/2017/April/58ee5729_ipnd-materials/ipnd-materials.zip)
 
 ## Project Submission
 In this project, you will use the Python programming language to build your own quiz. You will use a fill-in-the blank style to create a quiz that can even be used as a study tool to help you remember important vocabulary.
